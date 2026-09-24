@@ -6,7 +6,7 @@
 
 ## 1. 事業者情報
 * **事業者名**: 山本電機工業株式会社
-* **提供アプリ**: SmartMonitorMMF
+* **提供アプリ**: SmartMonitor For MMF
 * **お問い合わせ先**: yamamoto.electric.industrial@gmail.com
 
 ---
